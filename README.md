@@ -1,5 +1,5 @@
 # MLP-Classifier
-Implementation of a simple MLP classifier in MNIST dataset using Pytorch.
+Implementation of a simple MLP classifier on MNIST dataset using Pytorch.
 
 ## Dataset
 MNIST dataset 
