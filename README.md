@@ -1,10 +1,10 @@
 # MLP-Classifier
 Implementation of a simple MLP classifier in MNIST dataset using Pytorch.
 
-##Dataset
+## Dataset
 MNIST dataset 
 
-##Requirements
+## Requirements
 1. Python3.
 2. PyCharm or any Python IDE.
 3. Numpy and Pandas
